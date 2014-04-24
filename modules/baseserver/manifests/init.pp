@@ -7,6 +7,7 @@ class baseserver {
 		'screen',
 		'git-gui',
 		'smbclient',
+		'exuberant-ctags',
 		]:
 		ensure => installed,
 	}
