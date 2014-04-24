@@ -6,6 +6,7 @@ class baseserver {
 		'git',
 		'screen',
 		'git-gui',
+		'smbclient',
 		]:
 		ensure => installed,
 	}
